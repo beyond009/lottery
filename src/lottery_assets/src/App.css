@@ -1,0 +1,28 @@
+.app {
+  font-family: sans-serif;
+  width: 100%;
+  height: 100%;
+  font-size: 2.5rem;
+}
+.app__box {
+  width: fit-content;
+  margin: 100px auto 0px auto;
+}
+.app_box_button {
+  width: fit-content;
+  margin: 0px auto 30px auto;
+}
+.app_number {
+  width: fit-content;
+  /* font-size: small; */
+  margin: auto;
+}
+.app_lucky_button {
+  width: fit-content;
+  margin: auto;
+}
+#value {
+  width: min-content;
+  margin: auto;
+  font-size: 10rem;
+}
